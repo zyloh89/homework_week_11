@@ -6,7 +6,7 @@ Week 11 homework was to create an application can be used to write, save and del
 
 ## Link to deployed code
 
-https://zyloh89.github.io/homework_week_11/
+https://github.com/zyloh89/homework_week_11/
 
 
 ## Deployed application - Heroku
